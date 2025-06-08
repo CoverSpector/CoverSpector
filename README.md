@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **CoverSpector/CoverSpector** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,6 +20,7 @@ Here are some ideas to get you started:
 
 - ✨ Funcat: **I spend much more time configuring useless things than programming something useful...**
 
+<h3 align="left">Actvity over the Last Year:</h3>
 <a href="https://wakatime.com/@kether9"><img src="https://wakatime.com/share/@kether9/a9c8d477-c359-49eb-a814-7b137755b3a6.png" /></a><br>
 <a href="https://wakatime.com/@kether9"><img src="https://wakatime.com/badge/user/018b16af-a950-4f64-9659-d5a376ee725a.svg" alt="Total time coded last Year" /></a><br>
 
