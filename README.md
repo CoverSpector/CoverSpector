@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Kether9</h1>
-<h3 align="center">A Student from Germany and a bit of a developer...</h3>
+<h3 align="center">A student from Germany and hobby developer. </h3>
 
-- 🌱 I’m currently learning **c++ and javascripts**
+- 🌱 I’m currently learning **c++ and javascript**
 
-- ✨ Funcat: **I spend much more time configuring useless things than programming something useful...**
+- ✨ Funcat: **Fun fact: I spend way more time configuring things than writing useful code...**
 
 <h3 align="left">Actvity over the Last Year:</h3>
 <a href="https://wakatime.com/@kether9"><img src="https://wakatime.com/share/@kether9/a9c8d477-c359-49eb-a814-7b137755b3a6.png" /></a><br>
