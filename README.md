@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **c++ and javascript**
 
-- ✨ Funcat: **Fun fact: I spend way more time configuring things than writing useful code...**
+- ✨ Funcat: **I spend way more time configuring things than writing useful code...**
 
 <h3 align="left">Actvity over the Last Year:</h3>
 <a href="https://wakatime.com/@kether9"><img src="https://wakatime.com/share/@kether9/a9c8d477-c359-49eb-a814-7b137755b3a6.png" /></a><br>
